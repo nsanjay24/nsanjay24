@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm SANJAY</h1>
-<h3 align="center">A cybersecurity enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Sanjay</h1>
+<h3 align="center">A tech enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Cybersecurity**
+- 🌱 I’m actively searching for a job opportunity
 
 - 📫 How to reach me **sanjaynetipalli@gmail.com**
 
